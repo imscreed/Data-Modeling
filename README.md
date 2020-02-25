@@ -31,7 +31,7 @@ And below is an example of what a single song file, TRAABJL12903CDCF1A.json, loo
 
 ```
 
-# Log Dataset
+**Log Dataset**
 
 Contains log files in JSON format based on the songs in the dataset above. 
 
@@ -78,3 +78,4 @@ For manipulating the data and processing it we use the Panda library in Python. 
 **Songplays Table:**
 This table is the one that contains all the useful piece of information. i.e. The facts and metrics that are in structured form.
 
+![songplays table](https://github.com/imscreed/Data-Modeling/blob/master/songplays.jpg "songplays table")
